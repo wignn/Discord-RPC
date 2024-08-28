@@ -20,9 +20,9 @@ npm install
 3. Configure Environment Variables
 Open the .env file in the root directory and set your Discord application's CLIENT_ID:
 
-makefile
-Copy code
+```
 CLIENT_ID=your_discord_client_id
+```
 4. Configure config.json
 In the src folder, you will find a config.json file. Update this file with your desired configuration, such as state, details, and other RPC settings.
 
