@@ -50,6 +50,8 @@ Navigate to your project directory.
 
 6. Start the Application
 To start the Discord RPC application, run:
-```node src/index.js
+
+```
+node src/index.js
 ```
 or instal node demon
