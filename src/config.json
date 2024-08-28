@@ -1,0 +1,22 @@
+{
+  "activity": {
+    "details": "Chillin with style",
+    "state": "Relaxing in the moment",
+    "largeImageKey": "https://media1.tenor.com/m/2i-max8LWS0AAAAC/yunli-love.gif",
+    "largeImageText": "Relaxation Mode: Activated",
+    "startTimestamp": 1507665886,
+    "smallImageKey": "https://i.makeagif.com/media/11-21-2022/imisbt.gif",
+    "smallImageText": "Taking it easy",
+    "partySize": 1,
+    "partyMax": 6,
+    "joinSecret": "https://wignn.github.io/Hello-World/",
+    "snoozeSecret": "https://wignn.github.io/Hello-World/",
+    "instance": true,
+    "buttons": [
+      {
+        "label": "Take a break",
+        "url": "https://wignn.github.io/Hello-World/"
+      }
+    ]
+  }
+}
